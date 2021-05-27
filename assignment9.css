@@ -1,0 +1,12 @@
+p {
+	font-size: 180%;
+}
+
+span {
+	color: blue;
+	text-decoration: underline;
+}
+
+span:hover {
+	cursor: pointer;
+}

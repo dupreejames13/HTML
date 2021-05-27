@@ -1,0 +1,14 @@
+	img {width: 85%; height: 85%; padding: 30px}
+	nav {text-align: center; background-color: #B7B6BA; height: 40px; font-size: 16pt; padding: 0px;}
+	.column1{float: left; width: 70%}
+	.column2{float: left; width: 29%; margin-top: 20px; background-color: #B7B6BA; height: 550px}
+	.column3{float: left; width: 50%;}
+	.column4{float: left; width: 50%}
+	
+	.leftPadded{padding-left: 10px;margin-bottom:5px;}
+	ul{margin: 0px}
+	li{padding-bottom: 5px}
+	
+	a {color:#0033cc;}         
+	a:hover {color:#8DBDE0;}   
+	a {text-decoration: none;}

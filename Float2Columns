@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="styles/Float2Columns.css">
+	<title>Float 2 Columns</title>
+</head>
+
+<body>
+	<h1>2 column layout example</h1>
+	<div id ="one">
+		<h2> Column One</h2>
+		<p>Writing an effective beginning to an essay is important if you want to hook in a reader and get them interested in what you are going to say. However, it is often difficult to come up with this opening paragraph which is really going to make the reader want to hear what you have to say. This is why sometimes many students would want to seek out some form of assistance with their writing so that they may get better grades for their essays and papers. For that reason, you could employ our paragraph generator if found any.</p>
+	</div>
+	<div id ="two">
+		<h2>Column Two</h2>
+		<p>A random paragraph generator is one form of help which you could utilize. By using a simple maker you could save a huge amount of time and come up with something which you may adapt to create that impressive opening.</p>
+	</div>
+
+</body>
+</html>
